@@ -27,3 +27,4 @@ Juan Esteban Medina  -> Collaborator
 8. Resuelvan el conflicto con IntelliJ si es posible, Resolver conflictos en IntelliJ
 
 De esta forma ya sabes resolver conflictos directamente sobre los archivos y usando un IDE como IntelliJ, esto te será muy útil en los futuros trabajos en equipo con Git.
+.
