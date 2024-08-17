@@ -40,7 +40,9 @@ git commit -m <commit message>: La opción -m permite añadir un mensaje de comm
 
 Ubico la carpeta
 ![alt text](image-3.png)
-sss
+
+![alt text](image-4.png)
+
 Y se colocan estos comandos:
 
 git init
@@ -52,3 +54,8 @@ git commit -m "first commit"
 git remote add origin https://github.com/Juanseproo/CVDS.git
 
 git push -u origin master
+
+8. Configura el correo en git local de manera correcta
+
+9. Vuelve a subir los cambios y observa que todo esté bien en el repositorio remoto (en GitHub).
+![alt text](image-5.png)
