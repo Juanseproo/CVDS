@@ -15,7 +15,7 @@ Juan Esteban Medina  -> Collaborator
 ![alt text](Capturas/image-1.png)
 
 4. El colaborador acepta la invitación al repositorio
-
+aaa
 ![alt text](Capturas/image-2.png)
 
 5. Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.
