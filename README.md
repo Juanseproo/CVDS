@@ -18,11 +18,6 @@ Juan Esteban Medina  -> Collaborator
 
 ![alt text](Capturas/image-2.png)
 
-Owner quita permiso de escritura en el repositorio que se creó en la parte 1.
-![alt text](Capturas/image-3.png)
-
-
-
 5. Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.
 
 6. ¿Que sucedió?
