@@ -28,13 +28,13 @@ aaa
 5. Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.
 
 6. ¿Que sucedió?
-![alt text](Capturas/image.png)
+![alt text](Capturas/image-11.png)
 
 7. La persona que perdió la competencia de subir los cambios, tiene que resolver los conflictos, cúando haces pull de los cambios, los archivos tienen los símbolos <<< === y >>> (son normales en la resolución de conflictos), estos conflictos debes resolverlos manualmente. Como resolver Conflictos GitHub
-![alt text](Capturas/image-2.png)
+![alt text](Capturas/image-22.png)
 
 8. Resuelvan el conflicto con IntelliJ si es posible, Resolver conflictos en IntelliJ
-![alt text](Capturas/image-1.png)
+![alt text](Capturas/image33.png)
 De esta forma ya sabes resolver conflictos directamente sobre los archivos y usando un IDE como IntelliJ, esto te será muy útil en los futuros trabajos en equipo con Git.
 
 
