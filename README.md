@@ -47,4 +47,5 @@ Si se trabaja en un equipo, utilizar pull requests o merge requests para revisar
 Un pull request es una petición que el propietario de un fork de un repositorio hace al propietario del repositorio original para que este último incorpore los commits que están en el fork.
 
 3. Creen una rama cada uno y suban sus cambios
-Esto ya lo habiamos realizado cuando subimos el README con las respuestas personales de la parte 1 del laboratorio 
+Esto ya lo habiamos realizado cuando subimos el README con las respuestas personales de la parte 1 del laboratorio
+![ramaMedina](capturas/ramaMedina.png)
